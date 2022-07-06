@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-06T11:25:04 IST" name="Default suite" finished-at="2022-07-06T11:25:05 IST" duration-ms="752">
+    <groups>
+    </groups>
+    <test started-at="2022-07-06T11:25:04 IST" name="Default test" finished-at="2022-07-06T11:25:05 IST" duration-ms="752">
+      <class name="PageRepo.BasePage">
+        <test-method is-config="true" signature="startup()[pri:0, instance:PageRepo.BasePage@2177849e]" started-at="2022-07-06T11:25:03 IST" name="startup" finished-at="2022-07-06T11:25:04 IST" duration-ms="1500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:PageRepo.BasePage@2177849e]" started-at="2022-07-06T11:25:04 IST" name="setExtent" finished-at="2022-07-06T11:25:04 IST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:PageRepo.BasePage@2177849e]" started-at="2022-07-06T11:25:04 IST" name="endReport" finished-at="2022-07-06T11:25:05 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="browser_Closure()[pri:0, instance:PageRepo.BasePage@2177849e]" started-at="2022-07-06T11:25:05 IST" name="browser_Closure" finished-at="2022-07-06T11:25:05 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_Closure -->
+      </class> <!-- PageRepo.BasePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
